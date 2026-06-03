@@ -93,3 +93,16 @@ Vous pouvez configurer vos touches en modifiant directement le fichier interne d
 Ce projet va continuer d'évoluer. Voici nos pistes d'amélioration :
 * **Utilisation d'un PCB :** Créer notre propre circuit imprimé pour simplifier le montage et éviter de souder les câbles un par un.
 * **Développer un site web en ligne :** Héberger le fichier `index.html` sur internet pour que les utilisateurs n'aient plus besoin de le télécharger localement pour configurer leur clavier.
+
+---
+## L'Équipe
+
+| Nom | LinkedIn |
+| :---| :---: |
+| **Adam Fouchard**| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.google.com/) | 
+| **Maël Dubois**  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.google.com/) |
+| **Noemi Lenoel** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.google.com/) |
+| **Helena Petry** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.google.com/) |
+| **Goulven Magliulo** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goulven-magliulo-2116923a9/) |
+
+
