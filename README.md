@@ -100,7 +100,7 @@ Ce projet va continuer d'évoluer. Voici nos pistes d'amélioration :
 | Nom | LinkedIn |
 | :---| :---: |
 | **Adam Fouchard**| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.google.com/) | 
-| **Maël Dubois**  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.google.com/](https://www.linkedin.com/in/maël-dubois-38966b398/) |
+| **Maël Dubois**  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maël-dubois-38966b398/) |
 | **Noémie Lenoël** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noémie-lenoël-1a8374377) |
 | **Helena Petry** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.google.com/) |
 | **Goulven Magliulo** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goulven-magliulo-2116923a9/) |
