@@ -4,7 +4,7 @@
 # Il surveille les boutons et envoie les actions au PC quand on appuie.
 # ==============================================================================
 
-import board        # Accès aux broches 
+import board        # Accès aux broches -
 import digitalio    #lit l'état des boutons (appuyé / relâché)
 import time       
 import json       

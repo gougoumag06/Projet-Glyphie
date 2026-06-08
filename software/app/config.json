@@ -1,5 +1,9 @@
 {
   "_AIDE_1": "Parametres globaux -> layout : AZERTY ou QWERTY | os : windows ou linux",
+  "_AIDE_TYPES_1": "Il existe 3 types d'actions :",
+  "_AIDE_TYPES_2": "1. 'shortcut' : Raccourci clavier (ex: 'CTRL+C', 'GUI+D', 'A').",
+  "_AIDE_TYPES_3": "2. 'text'     : Tape une phrase entiere (ex: 'Bonjour !').",
+  "_AIDE_TYPES_4": "3. 'launch'   : Ouvre une application ou une URL (ex: 'notepad', 'https://github.com').",
   "layout": "AZERTY",
   "os": "windows",
   "keys": {
@@ -16,8 +20,8 @@
       "value": "3"
     },
     "6": {
-      "value": "4",
-      "type": "text"
+      "type": "text",
+      "value": "4"
     },
     "7": {
       "value": "5",
