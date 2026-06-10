@@ -268,7 +268,7 @@ def execute_action(action):
             # Sur Windows : on utilise Win+R pour lancer l'application
             kbd.press(Keycode.GUI, Keycode.R) 
             kbd.release_all()
-            time.sleep(0.3)    
+            time.sleep(0.7)    
             send_text(val)     
             time.sleep(0.1)
             kbd.press(Keycode.ENTER)   
